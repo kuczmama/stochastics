@@ -1,4 +1,5 @@
 # Create a simple random walk:
+# https://www.youtube.com/watch?v=PPl-7_RL0Ko
 
 start_value = 0
 num_steps = 1000
