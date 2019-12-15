@@ -1,3 +1,5 @@
+# Create a simple random walk:
+
 start_value = 0
 num_steps = 1000
 step_size = 1
