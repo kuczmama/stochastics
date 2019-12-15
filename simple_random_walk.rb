@@ -1,5 +1,6 @@
 # Create a simple random walk:
 # https://www.youtube.com/watch?v=PPl-7_RL0Ko
+# https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/lecture-notes/MIT18_S096F13_lecnote17.pdf
 
 start_value = 0
 num_steps = 1000
